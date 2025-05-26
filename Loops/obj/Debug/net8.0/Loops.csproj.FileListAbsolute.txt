@@ -1,0 +1,14 @@
+c:\Users\mooat\C#AndDotnet\Loops\bin\Debug\net8.0\Loops.exe
+c:\Users\mooat\C#AndDotnet\Loops\bin\Debug\net8.0\Loops.deps.json
+c:\Users\mooat\C#AndDotnet\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+c:\Users\mooat\C#AndDotnet\Loops\bin\Debug\net8.0\Loops.dll
+c:\Users\mooat\C#AndDotnet\Loops\bin\Debug\net8.0\Loops.pdb
+c:\Users\mooat\C#AndDotnet\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mooat\C#AndDotnet\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+c:\Users\mooat\C#AndDotnet\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+c:\Users\mooat\C#AndDotnet\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+c:\Users\mooat\C#AndDotnet\Loops\obj\Debug\net8.0\Loops.dll
+c:\Users\mooat\C#AndDotnet\Loops\obj\Debug\net8.0\refint\Loops.dll
+c:\Users\mooat\C#AndDotnet\Loops\obj\Debug\net8.0\Loops.pdb
+c:\Users\mooat\C#AndDotnet\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+c:\Users\mooat\C#AndDotnet\Loops\obj\Debug\net8.0\ref\Loops.dll

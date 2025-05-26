@@ -1,0 +1,14 @@
+C:\Users\mooat\C#AndDotnet\DemoProgram\bin\Debug\net8.0\DemoProgram.exe
+C:\Users\mooat\C#AndDotnet\DemoProgram\bin\Debug\net8.0\DemoProgram.deps.json
+C:\Users\mooat\C#AndDotnet\DemoProgram\bin\Debug\net8.0\DemoProgram.runtimeconfig.json
+C:\Users\mooat\C#AndDotnet\DemoProgram\bin\Debug\net8.0\DemoProgram.dll
+C:\Users\mooat\C#AndDotnet\DemoProgram\bin\Debug\net8.0\DemoProgram.pdb
+C:\Users\mooat\C#AndDotnet\DemoProgram\obj\Debug\net8.0\DemoProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mooat\C#AndDotnet\DemoProgram\obj\Debug\net8.0\DemoProgram.AssemblyInfoInputs.cache
+C:\Users\mooat\C#AndDotnet\DemoProgram\obj\Debug\net8.0\DemoProgram.AssemblyInfo.cs
+C:\Users\mooat\C#AndDotnet\DemoProgram\obj\Debug\net8.0\DemoProgram.csproj.CoreCompileInputs.cache
+C:\Users\mooat\C#AndDotnet\DemoProgram\obj\Debug\net8.0\DemoProgram.dll
+C:\Users\mooat\C#AndDotnet\DemoProgram\obj\Debug\net8.0\refint\DemoProgram.dll
+C:\Users\mooat\C#AndDotnet\DemoProgram\obj\Debug\net8.0\DemoProgram.pdb
+C:\Users\mooat\C#AndDotnet\DemoProgram\obj\Debug\net8.0\DemoProgram.genruntimeconfig.cache
+C:\Users\mooat\C#AndDotnet\DemoProgram\obj\Debug\net8.0\ref\DemoProgram.dll

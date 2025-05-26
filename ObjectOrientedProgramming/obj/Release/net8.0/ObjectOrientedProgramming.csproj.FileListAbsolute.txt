@@ -1,0 +1,14 @@
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\bin\Release\net8.0\ObjectOrientedProgramming.exe
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\bin\Release\net8.0\ObjectOrientedProgramming.deps.json
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\bin\Release\net8.0\ObjectOrientedProgramming.runtimeconfig.json
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\bin\Release\net8.0\ObjectOrientedProgramming.dll
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\bin\Release\net8.0\ObjectOrientedProgramming.pdb
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\obj\Release\net8.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\obj\Release\net8.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\obj\Release\net8.0\ObjectOrientedProgramming.AssemblyInfo.cs
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\obj\Release\net8.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\obj\Release\net8.0\ObjectOrientedProgramming.dll
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\obj\Release\net8.0\refint\ObjectOrientedProgramming.dll
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\obj\Release\net8.0\ObjectOrientedProgramming.pdb
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\obj\Release\net8.0\ObjectOrientedProgramming.genruntimeconfig.cache
+C:\Users\mooat\C#AndDotnet\ObjectOrientedProgramming\obj\Release\net8.0\ref\ObjectOrientedProgramming.dll

@@ -1,0 +1,14 @@
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\bin\Release\net8.0\IntroductionToOop.exe
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\bin\Release\net8.0\IntroductionToOop.deps.json
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\bin\Release\net8.0\IntroductionToOop.runtimeconfig.json
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\bin\Release\net8.0\IntroductionToOop.dll
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\bin\Release\net8.0\IntroductionToOop.pdb
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\obj\Release\net8.0\IntroductionToOop.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\obj\Release\net8.0\IntroductionToOop.AssemblyInfoInputs.cache
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\obj\Release\net8.0\IntroductionToOop.AssemblyInfo.cs
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\obj\Release\net8.0\IntroductionToOop.csproj.CoreCompileInputs.cache
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\obj\Release\net8.0\IntroductionToOop.dll
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\obj\Release\net8.0\refint\IntroductionToOop.dll
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\obj\Release\net8.0\IntroductionToOop.pdb
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\obj\Release\net8.0\IntroductionToOop.genruntimeconfig.cache
+c:\Users\mooat\C#AndDotnet\IntroductionToOop\obj\Release\net8.0\ref\IntroductionToOop.dll

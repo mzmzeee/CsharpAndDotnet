@@ -1,0 +1,10 @@
+<people>
+    <person>
+        <name>John Doe</name>
+        <age>42</age>
+    </person>
+    <person>
+        <name>Jane Doe</name>
+        <age>39</age>
+    </person>
+</people>
