@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mooat\\C#AndDotnet\\firstapp\\firstapp.csproj": {}
+    "/home/mzmzeeee/coding/C#AndDotnet/firstapp/firstapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mooat\\C#AndDotnet\\firstapp\\firstapp.csproj": {
+    "/home/mzmzeeee/coding/C#AndDotnet/firstapp/firstapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mooat\\C#AndDotnet\\firstapp\\firstapp.csproj",
+        "projectUniqueName": "/home/mzmzeeee/coding/C#AndDotnet/firstapp/firstapp.csproj",
         "projectName": "firstapp",
-        "projectPath": "C:\\Users\\mooat\\C#AndDotnet\\firstapp\\firstapp.csproj",
-        "packagesPath": "C:\\Users\\mooat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mooat\\C#AndDotnet\\firstapp\\obj\\",
+        "projectPath": "/home/mzmzeeee/coding/C#AndDotnet/firstapp/firstapp.csproj",
+        "packagesPath": "/home/mzmzeeee/.nuget/packages/",
+        "outputPath": "/home/mzmzeeee/coding/C#AndDotnet/firstapp/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mooat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "/home/mzmzeeee/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -36,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -62,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

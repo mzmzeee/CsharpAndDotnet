@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mooat\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/mzmzeeee/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mooat\\C#AndDotnet\\AsyncParallelAndMultiThreading\\AsyncParallelAndMultiThreading.csproj",
+      "projectUniqueName": "/home/mzmzeeee/coding/C#AndDotnet/AsyncParallelAndMultiThreading/AsyncParallelAndMultiThreading.csproj",
       "projectName": "AsyncParallelAndMultiThreading",
-      "projectPath": "C:\\Users\\mooat\\C#AndDotnet\\AsyncParallelAndMultiThreading\\AsyncParallelAndMultiThreading.csproj",
-      "packagesPath": "C:\\Users\\mooat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mooat\\C#AndDotnet\\AsyncParallelAndMultiThreading\\obj\\",
+      "projectPath": "/home/mzmzeeee/coding/C#AndDotnet/AsyncParallelAndMultiThreading/AsyncParallelAndMultiThreading.csproj",
+      "packagesPath": "/home/mzmzeeee/.nuget/packages/",
+      "outputPath": "/home/mzmzeeee/coding/C#AndDotnet/AsyncParallelAndMultiThreading/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mooat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "/home/mzmzeeee/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -43,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -69,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

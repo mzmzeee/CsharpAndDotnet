@@ -1111,24 +1111,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mooat\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/mzmzeeee/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mooat\\C#AndDotnet\\MultiProject.Console\\MultiProject.Console.csproj",
+      "projectUniqueName": "/home/mzmzeeee/coding/C#AndDotnet/MultiProject.Console/MultiProject.Console.csproj",
       "projectName": "MultiProject.Console",
-      "projectPath": "C:\\Users\\mooat\\C#AndDotnet\\MultiProject.Console\\MultiProject.Console.csproj",
-      "packagesPath": "C:\\Users\\mooat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mooat\\C#AndDotnet\\MultiProject.Console\\obj\\",
+      "projectPath": "/home/mzmzeeee/coding/C#AndDotnet/MultiProject.Console/MultiProject.Console.csproj",
+      "packagesPath": "/home/mzmzeeee/.nuget/packages/",
+      "outputPath": "/home/mzmzeeee/coding/C#AndDotnet/MultiProject.Console/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mooat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "/home/mzmzeeee/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1140,11 +1135,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\mooat\\C#AndDotnet\\AsyncParallelAndMultiThreading\\AsyncParallelAndMultiThreading.csproj": {
-              "projectPath": "C:\\Users\\mooat\\C#AndDotnet\\AsyncParallelAndMultiThreading\\AsyncParallelAndMultiThreading.csproj"
+            "/home/mzmzeeee/coding/C#AndDotnet/AsyncParallelAndMultiThreading/AsyncParallelAndMultiThreading.csproj": {
+              "projectPath": "/home/mzmzeeee/coding/C#AndDotnet/AsyncParallelAndMultiThreading/AsyncParallelAndMultiThreading.csproj"
             },
-            "C:\\Users\\mooat\\C#AndDotnet\\MultiProject.ClassLibrary\\MultiProject.ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\mooat\\C#AndDotnet\\MultiProject.ClassLibrary\\MultiProject.ClassLibrary.csproj"
+            "/home/mzmzeeee/coding/C#AndDotnet/MultiProject.ClassLibrary/MultiProject.ClassLibrary.csproj": {
+              "projectPath": "/home/mzmzeeee/coding/C#AndDotnet/MultiProject.ClassLibrary/MultiProject.ClassLibrary.csproj"
             }
           }
         }
@@ -1153,11 +1148,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1185,7 +1175,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

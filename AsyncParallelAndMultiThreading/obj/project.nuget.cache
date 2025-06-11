@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKBQjaIyPRw=",
+  "dgSpecHash": "/NvEh4H9MEiQ4RIB7DV/HxprwKDMBZcrPg5mHweR8yHb20u+OJZv3XMU6l6+2gzgQ603exb5Kr9PTJOE5zXNRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mooat\\C#AndDotnet\\AsyncParallelAndMultiThreading\\AsyncParallelAndMultiThreading.csproj",
+  "projectFilePath": "/home/mzmzeeee/coding/C#AndDotnet/AsyncParallelAndMultiThreading/AsyncParallelAndMultiThreading.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
