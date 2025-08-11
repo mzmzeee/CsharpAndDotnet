@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IAt0ydsSTor+DoZEJSM0/YNvGwpSrU56hAM2FZ9O++wcR6vuK7etxqK/WFfqg4Pv/JMUo0V/jbNPRNxn1uzrMA==",
+  "dgSpecHash": "fkh1J1PnMN4=",
   "success": true,
   "projectFilePath": "/home/mzmzeeee/coding/C#AndDotnet/MultiProject.Console/MultiProject.Console.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,10 @@
     "/home/mzmzeeee/.nuget/packages/system.security.cryptography.protecteddata/4.7.0/system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "/home/mzmzeeee/.nuget/packages/system.security.permissions/4.7.0/system.security.permissions.4.7.0.nupkg.sha512",
     "/home/mzmzeeee/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
-    "/home/mzmzeeee/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512"
+    "/home/mzmzeeee/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
   ],
   "logs": []
 }

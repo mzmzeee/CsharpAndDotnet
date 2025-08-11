@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3yLXbB1pxiHSX/0CSx1kRhuv1CpFwmG750DK/WV1W3KOXT+sM3p1CIlylQrOhvSJT0wStrI/5AtZ4wxwxWSh1g==",
+  "dgSpecHash": "KbOeV+5LxkI=",
   "success": true,
   "projectFilePath": "/home/mzmzeeee/coding/C#AndDotnet/Collections/Collections.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -22,7 +22,7 @@
         }
 
         // what about with... a list of strings?
-        List<string> words = new List<string>
+        List<string> words = new()
 {
     "red",
     "green",
@@ -41,9 +41,9 @@
             ["charlie"] = 26
         };
         //foreach (KeyValuePair<string, int> person in ages)
-        foreach (var person in ages)
+        foreach (var (person, age) in ages)
         {
-            Console.WriteLine($"{person.Key} is {person.Value} years old");
+            Console.WriteLine($"{person} is {age} years old");
         }
 
         // we can use break and continue in a foreach loop

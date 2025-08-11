@@ -47,10 +47,10 @@
 
         List<string> myWords = new List<string> { "Hello", "World" };
         Console.WriteLine("myWords before ChangeReference:");
-        Console.WriteLine(string.Join(", ", myWords)); // Hello World
+        Console.WriteLine(string.Join(" ", myWords)); // Hello World
         ChangeReference(myWords);
         Console.WriteLine("myWords after ChangeReference:");
-        Console.WriteLine(string.Join(", ", myWords)); // Hello World from Dev Leader
+        Console.WriteLine(string.Join(" ", myWords)); // Hello World from Dev Leader
 
         // this is because when we pass a value type to a method
         // we're passing a copy of the value but when we pass a

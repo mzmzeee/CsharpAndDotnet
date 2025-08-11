@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K/I56d+IRhQEwXsCMMiV/Q3VAYUg9Ta+PhkBlTndqcViBlzVKYAQR+jtrEpL1zqJ+GC4ITEkc80S0dy1kf4zkA==",
+  "dgSpecHash": "DWULm+kBu3w=",
   "success": true,
   "projectFilePath": "/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/ControlFlow.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,7 +8,7 @@
         // we can use generics on classes, interfaces, methods, etc...
 
         GenericClass<int> myNumericInstance = new GenericClass<int>();
-        GenericClass<string> myStringInstance = new GenericClass<string>();
+        GenericClass<string> myStringInstance = new();
         // GenericClass instanceWithoutType = new GenericClass(); // this will not compile!!
 
         ImplementationWithIntegerType instanceOfImplementationWithIntegerType = new();

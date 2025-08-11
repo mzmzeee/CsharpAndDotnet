@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Jv57nllUcC0RjaPIts5yWl/DkxZWRFH+nr7dahjTMI6a+7oNd37juHDGstPYtWwuxw/ahZzFj/1KYyIUvgpbLQ==",
+  "dgSpecHash": "+Uc0h5XvP9c=",
   "success": true,
   "projectFilePath": "/home/mzmzeeee/coding/C#AndDotnet/BinaryAndStringData/BinaryAndStringData.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

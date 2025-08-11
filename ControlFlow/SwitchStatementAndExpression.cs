@@ -32,7 +32,7 @@
         Console.WriteLine("This is after the switch!");
 
         // here is an example of a switch expression
-        string dayOfWeekName = "Haha";
+        string dayOfWeekName = "Friday";
         string result = dayOfWeekName switch
         {
             "Monday" => "First day of the week",

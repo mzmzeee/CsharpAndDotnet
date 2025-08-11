@@ -1,0 +1,15 @@
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/bin/Debug/net8.0/ControlFlow
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/bin/Debug/net8.0/ControlFlow.deps.json
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/bin/Debug/net8.0/ControlFlow.runtimeconfig.json
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/bin/Debug/net8.0/ControlFlow.dll
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/bin/Debug/net8.0/ControlFlow.pdb
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/ControlFlow.AssemblyInfoInputs.cache
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/ControlFlow.AssemblyInfo.cs
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/ControlFlow.csproj.CoreCompileInputs.cache
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/ControlFlow.sourcelink.json
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/ControlFlow.dll
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/refint/ControlFlow.dll
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/ControlFlow.pdb
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/ControlFlow.genruntimeconfig.cache
+/home/mzmzeeee/coding/C#AndDotnet/ControlFlow/obj/Debug/net8.0/ref/ControlFlow.dll

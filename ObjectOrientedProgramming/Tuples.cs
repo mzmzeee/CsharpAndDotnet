@@ -1,4 +1,4 @@
-﻿//global using NicksColor = (byte R, byte G, byte B);
+﻿global using NicksColor = (byte R, byte G, byte B);
 public class Tuples
 {
     public void RunExample()

@@ -1,0 +1,15 @@
+/home/mzmzeeee/coding/C#AndDotnet/Collections/bin/Debug/net8.0/Collections
+/home/mzmzeeee/coding/C#AndDotnet/Collections/bin/Debug/net8.0/Collections.deps.json
+/home/mzmzeeee/coding/C#AndDotnet/Collections/bin/Debug/net8.0/Collections.runtimeconfig.json
+/home/mzmzeeee/coding/C#AndDotnet/Collections/bin/Debug/net8.0/Collections.dll
+/home/mzmzeeee/coding/C#AndDotnet/Collections/bin/Debug/net8.0/Collections.pdb
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/Collections.AssemblyInfoInputs.cache
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/Collections.AssemblyInfo.cs
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/Collections.csproj.CoreCompileInputs.cache
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/Collections.sourcelink.json
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/Collections.dll
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/refint/Collections.dll
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/Collections.pdb
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/Collections.genruntimeconfig.cache
+/home/mzmzeeee/coding/C#AndDotnet/Collections/obj/Debug/net8.0/ref/Collections.dll

@@ -26,7 +26,7 @@
         var myClassWithEquality1 = new MyClassWithEquality { NumericValue = 123, StringValue = "ABC" };
         var myClassWithEquality2 = new MyClassWithEquality { NumericValue = 123, StringValue = "ABC" };
         Console.WriteLine("myClassWithEquality1 equal to myClassWithEquality2:");
-        Console.WriteLine(myClassWithEquality1 == myClassWithEquality2); // False
+        Console.WriteLine(myClassWithEquality1.GetHashCode() == myClassWithEquality2.GetHashCode()); // False
         Console.WriteLine(myClassWithEquality1.Equals(myClassWithEquality2)); // True
         Console.WriteLine(object.Equals(myClassWithEquality1, myClassWithEquality2)); // True
 

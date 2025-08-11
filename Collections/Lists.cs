@@ -37,7 +37,7 @@
         // ["two"]
 
         // here is how we declare and initialize a list
-        List<int> numbers = new List<int>
+        List<int> numbers = new List<int>(10)
         {
             1,
             2,

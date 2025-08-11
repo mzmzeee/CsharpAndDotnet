@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ff0JZaEjhdXU5l1LXkVewJEX3s89UYXU+J+UllXNrVU//YY0vx/T58crj8kQq6kE0KSUNbZbP2fXzZAsfneHcw==",
+  "dgSpecHash": "xyKZgFEMx1g=",
   "success": true,
   "projectFilePath": "/home/mzmzeeee/coding/C#AndDotnet/DebuggingAndExceptions/DebuggingAndExceptions.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

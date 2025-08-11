@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KQ8Rr5FWn9fEcWQp3JlmR/e2vo+nKwbs2EP0DBNX7JJ+hAs5ImZwMdhDmtNIklPKe8XLKKBaTUSa5vx9u8mPOg==",
+  "dgSpecHash": "3xccRRr/PGA=",
   "success": true,
   "projectFilePath": "/home/mzmzeeee/coding/C#AndDotnet/ObjectOrientedProgramming/ObjectOrientedProgramming.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/home/mzmzeeee/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.18/microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

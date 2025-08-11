@@ -16,7 +16,7 @@
 
         // the "sender" parameter is the object that raised the event
         // the "e" parameter is an instance of the EventArgs class
-        MessageEventArgs idk = new("testing my balls");
+        MessageEventArgs idk = new("testing");
         Console.WriteLine($"{idk.Message}");
         EventSource source = new();
 

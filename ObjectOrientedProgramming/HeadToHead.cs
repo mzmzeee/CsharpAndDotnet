@@ -136,7 +136,7 @@
             if (doorPosition == DoorPosition.RearDriverSide ||
                 doorPosition == DoorPosition.RearPassengerSide)
             {
-                throw new InvalidOperationException("Coupes only have two doors!");
+                throw new InvalidOperationException("Truck only have two doors!");
             }
 
             Console.WriteLine($"Truck opening {doorPosition} door!");
